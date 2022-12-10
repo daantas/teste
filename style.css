@@ -1,0 +1,59 @@
+body{
+    background-color: #ffeded;
+}
+
+.fundo1{
+    text-align: center;
+    border-radius: 100px;
+    margin: -50px;
+}
+
+.logo{
+    text-align: center;
+    margin-top: -95px;
+    border-radius: 50px;
+}
+
+.titulo1{
+    color: #FF9999;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 9px;
+}
+
+.subtitulo{
+    color: #FF9999;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+}
+
+.cardapio{
+    border-radius: 8px;
+    width: 450px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 12px 12px;
+    color: white;
+    background-color: #c06969;
+    border: none;
+}
+
+.cardapio:hover {
+    background-color: #bb7272;
+    transition: all 0.1s ease-in;
+    transition-delay: 0.1s;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px;
+    margin-bottom: 15px;
+}
+
+.instaIcon{
+    text-align: center;
+}
